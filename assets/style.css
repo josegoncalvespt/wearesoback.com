@@ -5,8 +5,7 @@
   --accent: #2563eb;
   --border: #e5e5e5;
   --max-width: 680px;
-  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --font-serif: "New York", Charter, Georgia, "Times New Roman", serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", system-ui, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -60,11 +59,10 @@ body {
 }
 
 h1 {
-  font-family: var(--font-serif);
   font-weight: 600;
-  font-size: 36px;
-  line-height: 1.2;
-  letter-spacing: -0.02em;
+  font-size: 34px;
+  line-height: 1.15;
+  letter-spacing: -0.025em;
   margin: 0 0 8px;
 }
 

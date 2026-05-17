@@ -59,4 +59,4 @@ Email **josemarquezgoncalves@gmail.com** with:
 ## Legal
 
 - [Privacy Policy](/daily-design-challenge/privacy/)
-- Subscription Terms: see the paywall screen in-app or [Apple's standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
+- [Terms of Service](/daily-design-challenge/terms/)

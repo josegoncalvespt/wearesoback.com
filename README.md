@@ -21,13 +21,14 @@ wearesoback.com/
 └── daily-design-challenge/     # one folder per project
     ├── index.md                # https://wearesoback.com/daily-design-challenge/
     ├── privacy.md              # https://wearesoback.com/daily-design-challenge/privacy/
+    ├── terms.md                # https://wearesoback.com/daily-design-challenge/terms/
     └── support.md              # https://wearesoback.com/daily-design-challenge/support/
 ```
 
 ## Adding a new project
 
 1. Create a folder at the root, e.g. `cool-new-app/`.
-2. Inside, add `index.md`, `privacy.md`, `support.md` — each with YAML frontmatter:
+2. Inside, add `index.md`, `privacy.md`, `terms.md`, `support.md` — each with YAML frontmatter:
    ```yaml
    ---
    title: Page Title
