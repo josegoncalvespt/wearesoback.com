@@ -17,7 +17,7 @@ This Privacy Policy explains how **We Are So Back Ltd** ("we", "us"), a company 
 
 ## Who we are
 
-We Are So Back Ltd, Cyprus. Contact: **wearesobacklts@gmail.com**.
+We Are So Back Ltd, Cyprus. Contact: **wearesobackltd@gmail.com**.
 
 We are the data controller for any personal data processed via the App. We have not appointed a Data Protection Officer because we do not meet the thresholds in GDPR Article 37.
 
@@ -93,7 +93,7 @@ You have the right to:
 - withdraw consent at any time, where consent was the legal basis;
 - lodge a complaint with your supervisory authority. In Cyprus this is the [Office of the Commissioner for Personal Data Protection](https://www.dataprotection.gov.cy/).
 
-To exercise any right, email **wearesobacklts@gmail.com**. We respond within 30 days.
+To exercise any right, email **wearesobackltd@gmail.com**. We respond within 30 days.
 
 ## Your rights — California (CCPA / CPRA)
 
@@ -101,7 +101,7 @@ If you are a California resident:
 
 - **Categories of personal information collected** in the last 12 months: identifiers (the anonymous App User ID used to verify your subscription) and commercial information (your subscription status).
 - **Categories sold or shared:** **None.** We do not sell or share personal information as defined under the CCPA, and we have not done so in the preceding 12 months. We do not engage in cross-context behavioural advertising.
-- **Your rights:** to know, delete, correct, and non-discrimination. To exercise, email wearesobacklts@gmail.com.
+- **Your rights:** to know, delete, correct, and non-discrimination. To exercise, email wearesobackltd@gmail.com.
 
 ## Children's privacy
 
@@ -121,4 +121,4 @@ The full revision history of this Policy is public in the [Git history of the pa
 
 **We Are So Back Ltd**
 Cyprus
-wearesobacklts@gmail.com
+wearesobackltd@gmail.com

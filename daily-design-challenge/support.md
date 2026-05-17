@@ -5,7 +5,7 @@ description: Help and FAQ for Daily Design Challenge.
 
 Need help? You're in the right place.
 
-**Contact:** wearesobacklts@gmail.com
+**Contact:** wearesobackltd@gmail.com
 
 We try to reply within 2 business days.
 
@@ -48,7 +48,7 @@ iOS 18.0 and newer.
 
 ### Found a bug? Have a feature request?
 
-Email **wearesobacklts@gmail.com** with:
+Email **wearesobackltd@gmail.com** with:
 
 - Your iPhone model and iOS version.
 - A short description of what happened.
