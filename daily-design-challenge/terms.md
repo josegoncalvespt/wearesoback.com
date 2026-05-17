@@ -53,7 +53,7 @@ The following additional terms are required by Apple's App Store Distribution Ag
 - **Product claims.** We, not Apple, are responsible for addressing any claims relating to the App or your possession and use of it, including product liability, claims of non-conformity with legal or regulatory requirements, and consumer-protection or privacy claims.
 - **Intellectual property.** If a third party claims the App or your use of it infringes that party's IP rights, we, not Apple, will be solely responsible for the investigation, defence, settlement, and discharge of any such claim.
 - **Legal compliance.** You represent and warrant that (i) you are not located in a country subject to a U.S. Government embargo or designated by the U.S. Government as a "terrorist supporting" country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
-- **Developer name and address.** We Are So Back Ltd, Cyprus. Contact: josemarquezgoncalves@gmail.com.
+- **Developer name and address.** We Are So Back Ltd, Cyprus. Contact: wearesobacklts@gmail.com.
 - **Third-party beneficiary.** Apple and Apple's subsidiaries are third-party beneficiaries of these Terms, and upon your acceptance of these Terms, Apple has the right (and is deemed to have accepted the right) to enforce these Terms against you as a third-party beneficiary.
 
 ## 7. Disclaimer of warranties
@@ -85,7 +85,7 @@ These Terms are governed by the laws of the **Republic of Cyprus**, without rega
 - EU consumers retain the right to bring claims in the courts of their EU Member State of residence where required by mandatory consumer law;
 - either party may bring an action in a small-claims court where available.
 
-**Before filing any claim**, you agree to attempt informal resolution by emailing **josemarquezgoncalves@gmail.com** and providing **30 days** for us to resolve the matter.
+**Before filing any claim**, you agree to attempt informal resolution by emailing **wearesobacklts@gmail.com** and providing **30 days** for us to resolve the matter.
 
 The UN Convention on Contracts for the International Sale of Goods (CISG) does not apply to these Terms.
 
@@ -106,4 +106,4 @@ The full revision history is public in the [Git history of the page source](http
 
 **We Are So Back Ltd**
 Cyprus
-josemarquezgoncalves@gmail.com
+wearesobacklts@gmail.com

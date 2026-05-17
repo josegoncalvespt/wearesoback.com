@@ -11,4 +11,4 @@ A small studio. We make things on the side.
 
 ## Contact
 
-josemarquezgoncalves@gmail.com
+wearesobacklts@gmail.com
