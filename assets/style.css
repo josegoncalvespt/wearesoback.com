@@ -1,0 +1,130 @@
+:root {
+  --bg: #ffffff;
+  --fg: #111111;
+  --muted: #666666;
+  --accent: #2563eb;
+  --border: #e5e5e5;
+  --max-width: 680px;
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-serif: "New York", Charter, Georgia, "Times New Roman", serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0a0a0a;
+    --fg: #f5f5f5;
+    --muted: #888888;
+    --accent: #60a5fa;
+    --border: #1f1f1f;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-sans);
+  font-size: 17px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 32px 24px 80px;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 24px;
+}
+
+.site-title {
+  font-weight: 600;
+  font-size: 17px;
+  text-decoration: none;
+  color: var(--fg);
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 24px;
+  text-align: center;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+h1 {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  margin: 0 0 8px;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 22px;
+  margin: 40px 0 12px;
+  letter-spacing: -0.01em;
+}
+
+h3 {
+  font-weight: 600;
+  font-size: 18px;
+  margin: 28px 0 8px;
+}
+
+p, ul, ol { margin: 0 0 16px; }
+
+li { margin: 4px 0; }
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+code {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.92em;
+  background: var(--border);
+  padding: 1px 6px;
+  border-radius: 4px;
+}
+
+pre {
+  background: var(--border);
+  padding: 16px;
+  border-radius: 8px;
+  overflow-x: auto;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 40px 0;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 16px 0;
+}
+
+th, td {
+  border-bottom: 1px solid var(--border);
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.muted {
+  color: var(--muted);
+  font-size: 14px;
+}

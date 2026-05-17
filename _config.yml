@@ -1,0 +1,25 @@
+title: So Back
+description: Projects, policies, and bits and pieces from So Back.
+url: https://wearesoback.com
+
+# Pretty URLs: foo.md -> /foo/ instead of /foo.html
+permalink: pretty
+
+# Jekyll plugins available on GitHub Pages
+plugins:
+  - jekyll-relative-links
+
+# Don't process node_modules, the README, or this config
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Default layout for all pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
