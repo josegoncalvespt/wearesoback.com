@@ -1,15 +1,5 @@
 ---
+layout: landing
 title: So Back
-description: Projects, policies, and bits and pieces from So Back.
+description: We are so back.
 ---
-
-A small studio. We make things on the side.
-
-## Projects
-
-- [Daily Design Challenge](/daily-design-challenge/) — a daily UI/UX brief for design practice.
-- [How to Wash](/how-to-wash/) — decode care labels and beat stains, on-device.
-
-## Contact
-
-wearesobackltd@gmail.com

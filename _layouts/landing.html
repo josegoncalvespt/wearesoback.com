@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title }}</title>
+  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+    }
+    body {
+      background: #000000;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", system-ui, sans-serif;
+      font-weight: 500;
+      -webkit-font-smoothing: antialiased;
+    }
+    .landing-title {
+      font-size: clamp(22px, 4.5vw, 48px);
+      letter-spacing: -0.02em;
+      text-align: center;
+      padding: 0 24px;
+    }
+  </style>
+</head>
+<body>
+  <div class="landing-title">WE ARE SO BACK</div>
+</body>
+</html>
